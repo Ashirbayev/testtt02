@@ -1,1 +1,7 @@
 Hellou world!
+
+
+main {
+	printf('Working!!!!!!')
+
+}
